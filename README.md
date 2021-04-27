@@ -298,7 +298,7 @@ This is a great opportunity to practice building API's. Start from scratch with 
 Items to reinforce and get comfortable with are:
 
 - Node Fundamentals
-  - Using node to exectue JavaScript files
+  - Using node to execute JavaScript files
   - Require/Module.exports
 - NPM
   - npm init
